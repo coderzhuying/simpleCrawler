@@ -3,12 +3,7 @@ import requests
 from pyecharts import Bar,Grid
 import csv
 
-
-
 DATA = []
-
-
-
 
 
 def getEveryPage(url):
